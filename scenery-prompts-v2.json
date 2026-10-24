@@ -1,0 +1,22 @@
+{
+  "mode": "built-in image_gen",
+  "purpose": "Scene 3 V2: motivated scenery changes within the approved cafe visual style",
+  "assets": [
+    {
+      "path": "assets/bank-desk-v2.png",
+      "workspace_path": "videos/2026-10-24-how-card-payments-work-five-dollar-coffee/assets/bank-desk-v2.png",
+      "prompt": "Use case: stylized-concept. Asset type: original full-frame background plate for a portrait educational animation about card-payment checks. Create a vertical 9:16 illustration, tall portrait. Style: sophisticated tactile editorial gouache with delicate ink hatching, like a charming vintage caf\u00e9 print; warm cream, worn sage green, honey wood and muted blue. Scene: a bank operations desk seen from a gently elevated frontal viewpoint. The lower two thirds are a large uninterrupted sage-green leather desk blotter on a beautifully detailed oak desktop, with subtle wear and soft natural shadows. The upper third establishes a quiet bank back office: an elegant green-shaded desk lamp near the far left edge, warm wooden pigeonhole shelves with paper folders in the distance, a softly lit window near the upper right. Central 75 percent stays very clear, calm and mostly empty so animated account records can sit on the desk. Warm directional light from the left, visible paper grain and craftsmanship, coherent shallow perspective. Compose to fill the entire tall frame, inviting and detailed at the perimeter, restrained in the center. Do not include people, hands, currency, coins, charts, foreground ledgers, account numbers, logos, letters, text, typography, watermarks or diagram arrows. This is scenery, not a screenshot or infographic. Render clean original painted surroundings with enough realistic material detail to match an illustrated payment terminal and ribbed coffee cup.",
+      "github_url": "https://github.com/cduque001/payment-processing-preview/blob/main/assets/bank-desk-v2-C3FDvF6_.png",
+      "preview_url": "https://cduque001.github.io/payment-processing-preview/assets/bank-desk-v2-C3FDvF6_.png",
+      "sha256": "65a40d1d684662458cd0aa93d0e5352333fda79b33a72944ac5080763c18c28d"
+    },
+    {
+      "path": "assets/cafe-counter-v2.png",
+      "workspace_path": "videos/2026-10-24-how-card-payments-work-five-dollar-coffee/assets/cafe-counter-v2.png",
+      "prompt": "Use case: stylized-concept. Asset type: original full-frame background plate for a portrait educational animation returning to the coffee shop after the bank reserves a card payment. Create a vertical 9:16 illustration, tall portrait. Sophisticated tactile editorial gouache with delicate ink hatching, charming vintage caf\u00e9 print; warm cream, worn sage green, honey-colored wood, terracotta and natural sunlit shadows. Scene: welcoming small caf\u00e9 viewed from the customer's side of the counter, slightly above counter height. A beautiful unoccupied honey oak countertop fills the lower two thirds, broad and clear for an animated card reader and takeaway coffee cup to be composited later. In the upper third, recognizable caf\u00e9 ambience: cream and sage tiled back wall, refined espresso machine with physically coherent knobs and steaming wand pushed to far left behind counter, stacked ceramic cups and coffee jars on shelves, tall softly lit window to the upper right. No generated foreground terminal or takeaway cup. Preserve the central 75 percent of the counter as uncluttered empty space, strong coherent tabletop perspective, lovely tactile painted materials, subtle paper texture. Fill the whole tall frame. No people, hands, currency, coins, visible brands, logos, letters, numbers, typography, diagrams or watermarks. The environment must feel like a real location painted in the same warm editorial style, not clip art.",
+      "github_url": "https://github.com/cduque001/payment-processing-preview/blob/main/assets/cafe-counter-v2-CrRcfQg0.png",
+      "preview_url": "https://cduque001.github.io/payment-processing-preview/assets/cafe-counter-v2-CrRcfQg0.png",
+      "sha256": "f5a895c453dee58017c032c7adfa903671ef3cc0fd165191ce9bea3d4da3fd31"
+    }
+  ]
+}

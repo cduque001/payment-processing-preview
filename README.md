@@ -1,11 +1,11 @@
 # How card payments work: the café receipt
 
-[Watch scene 3](https://cduque001.github.io/payment-processing-preview/?v=cafe-scene3&scene=3) · [Watch all three scenes](https://cduque001.github.io/payment-processing-preview/?v=cafe-scene3)
+[Watch the revised scene](https://cduque001.github.io/payment-processing-preview/?v=cafe-scenery-v2&scene=3) · [Watch all three scenes](https://cduque001.github.io/payment-processing-preview/?v=cafe-scenery-v2)
 
-The creator selected A, the café receipt. The new scene follows the bank’s checks and shows $5 being reserved inside the account while the shop’s payout remains pending. The first two scenes and narration are preserved.
+Scene 3 now moves from a bank operations desk into a close view of the $5 hold, then back to the café for the pending merchant payout. The surroundings change when the explanation changes place or scale. The creator-selected A style, approved first two scenes and narration are preserved.
 
 40.1 seconds, portrait 9:16, draft voice, music and word-aligned cues. The page includes chapter jumps, captions and seeking.
 
-[Original A/B comparison](https://cduque001.github.io/payment-processing-preview/comparison.html) · [Rick animation study](https://cduque001.github.io/payment-processing-preview/study.html) · [Full narration](https://cduque001.github.io/payment-processing-preview/narration.html)
+[Previous scene 3](https://cduque001.github.io/payment-processing-preview/scene3-original.html?scene=3) · [Original A/B comparison](https://cduque001.github.io/payment-processing-preview/comparison.html) · [Rick animation study](https://cduque001.github.io/payment-processing-preview/study.html) · [Full narration](https://cduque001.github.io/payment-processing-preview/narration.html)
 
-Artwork was generated specifically for these styles; font licenses are in `fonts/`. This repository contains the standalone review site.
+[New scenery asset paths and exact prompts](scenery-prompts-v2.json). The two original backgrounds were created with built-in image generation and saved within the video's assets folder. Existing foreground artwork is reused; font licenses are in `fonts/`.
