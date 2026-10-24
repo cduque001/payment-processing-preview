@@ -1,14 +1,11 @@
-# Payment processing · two animation treatments
+# How card payments work: the café receipt
 
-[Watch the two-style preview](https://cduque001.github.io/payment-processing-preview/?v=two-styles-1)
+[Watch scene 3](https://cduque001.github.io/payment-processing-preview/?v=cafe-scene3&scene=3) · [Watch all three scenes](https://cduque001.github.io/payment-processing-preview/?v=cafe-scene3)
 
-The first two scenes, approximately 25 seconds, with identical draft narration and sound.
+The creator selected A, the café receipt. The new scene follows the bank’s checks and shows $5 being reserved inside the account while the shop’s payout remains pending. The first two scenes and narration are preserved.
 
-- **A · The café receipt:** detailed illustrated café objects and an unfolding payment request.
-- **B · Inside the tap:** cinematic product imagery and a cyan request journey.
+40.1 seconds, portrait 9:16, draft voice, music and word-aligned cues. The page includes chapter jumps, captions and seeking.
 
-Switch A/B at the same moment. Play with sound, jump to scene two or hide captions to compare animation.
+[Original A/B comparison](https://cduque001.github.io/payment-processing-preview/comparison.html) · [Rick animation study](https://cduque001.github.io/payment-processing-preview/study.html) · [Full narration](https://cduque001.github.io/payment-processing-preview/narration.html)
 
-[Read the Rick animation study](https://cduque001.github.io/payment-processing-preview/study.html) · [Read/listen to the full narration](https://cduque001.github.io/payment-processing-preview/narration.html)
-
-Original generated artwork. No competitor footage or character assets are included. The study links its three references and distinguishes historical performance snapshots from creative conclusions. Final image prompts are in `image-prompts.json`.
+Artwork was generated specifically for these styles; font licenses are in `fonts/`. This repository contains the standalone review site.
